@@ -2,7 +2,7 @@
     "@context": "http://iiif.io/api/presentation/3/context.json",
     "id": "https://carmelcurtis.github.io/test/carmeltest/manifest.json",
     "type": "Manifest",
-    "label": { "en": [ "carmeltest" ] },
+    "label": { "en": [ "carmeltest02" ] },
     "items": [
       {
         "id": "https://carmelcurtis.github.io/test/carmeltest/canvas-1/canvas",
