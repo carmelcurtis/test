@@ -8,6 +8,48 @@
         "id": "https://carmelcurtis.github.io/test/carmeltest/canvas-1/canvas",
         "type": "Canvas",
         "duration": 49.0,
+        "annotations": [
+          
+          {
+            "type": "AnnotationPage",
+            "id": "https://carmelcurtis.github.io/test/annotations/carmeltest-canvas-1-02-00-00.json",
+            "label": {
+              "none": ["02:00.00"]
+            }
+          }
+          ,
+          {
+            "type": "AnnotationPage",
+            "id": "https://carmelcurtis.github.io/test/annotations/carmeltest-canvas-1-27-00.json",
+            "label": {
+              "none": ["27.00"]
+            }
+          }
+          ,
+          {
+            "type": "AnnotationPage",
+            "id": "https://carmelcurtis.github.io/test/annotations/carmeltest-canvas-1-01-28-00.json",
+            "label": {
+              "none": ["01:28.00"]
+            }
+          }
+          ,
+          {
+            "type": "AnnotationPage",
+            "id": "https://carmelcurtis.github.io/test/annotations/carmeltest-canvas-1-10-00-00.json",
+            "label": {
+              "none": ["10:00.00"]
+            }
+          }
+          ,
+          {
+            "type": "AnnotationPage",
+            "id": "https://carmelcurtis.github.io/test/annotations/carmeltest-canvas-1-15-00-00.json",
+            "label": {
+              "none": ["15:00.00"]
+            }
+          }
+        ],
         "items": [
           {
             "id": "https://carmelcurtis.github.io/test/carmeltest/canvas-1/paintings",
