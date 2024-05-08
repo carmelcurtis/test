@@ -7,7 +7,7 @@
       {
         "id": "https://carmelcurtis.github.io/test/carmeltest/canvas-1/canvas",
         "type": "Canvas",
-        "duration": 49.0,
+        "duration": 1354.0,
         "annotations": [
           
           {
@@ -60,8 +60,10 @@
                 "type": "Annotation",
                 "motivation": "painting",
                 "body": {
-                  "id": "https://media.dlib.indiana.edu/media_objects/7p88d418w",
-                    "duration": 49.0
+                  "id": "https://dlib.indiana.edu/avannotate/bouchard/AFRIQUE_SUR_SEINEbluray-high.mp4",
+                    "type": "Video",
+                    "format": "video/mp4",
+                    "duration": 1354.0
                 },
                 "target": "https://carmelcurtis.github.io/test/carmeltest/canvas-1/canvas"
               }
