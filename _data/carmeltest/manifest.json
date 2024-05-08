@@ -8,16 +8,6 @@
         "id": "https://carmelcurtis.github.io/test/carmeltest/canvas-1/canvas",
         "type": "Canvas",
         "duration": 1354.0,
-        "annotations": [
-          
-          {
-            "type": "AnnotationPage",
-            "id": "https://carmelcurtis.github.io/test/annotations/carmeltest-canvas-1-15-00-00.json",
-            "label": {
-              "none": ["15:00.00"]
-            }
-          }
-        ],
         "items": [
           {
             "id": "https://carmelcurtis.github.io/test/carmeltest/canvas-1/paintings",
