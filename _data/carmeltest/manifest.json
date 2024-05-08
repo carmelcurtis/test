@@ -7,7 +7,7 @@
       {
         "id": "https://carmelcurtis.github.io/test/carmeltest/canvas-1/canvas",
         "type": "Canvas",
-        "duration": 1781.0,
+        "duration": 49.0,
         "items": [
           {
             "id": "https://carmelcurtis.github.io/test/carmeltest/canvas-1/paintings",
@@ -18,8 +18,8 @@
                 "type": "Annotation",
                 "motivation": "painting",
                 "body": {
-                  "id": "https://purl.dlib.indiana.edu/iudl/media/930b88x336",
-                    "duration": 1781.0
+                  "id": "https://purl.dlib.indiana.edu/iudl/media/j52w13552p",
+                    "duration": 49.0
                 },
                 "target": "https://carmelcurtis.github.io/test/carmeltest/canvas-1/canvas"
               }
